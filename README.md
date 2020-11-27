@@ -10,7 +10,10 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter
 - 📫 How to reach me: 
-| [Twitter - @k_dinoy](https://twitter.com/k_dinoy) |  [Linkedin - Dinoy-Raj-K](https://www.linkedin.com/in/dinoy-raj-k-609542194/) |
+
+<a href="https://www.linkedin.com/in/dinoy-raj-k-609542194/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=20px height=20px></a>
+<a href="https://twitter.com/k_dinoy"><img src = "https://avatars3.githubusercontent.com/u/50278?s=200&v=4" width=20px height=20px></a>
+
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: 
 -->
