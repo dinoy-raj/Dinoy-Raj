@@ -1,7 +1,6 @@
 ### Hello,I'm Dinoy Raj 👋
 
 
-[![Header](https://raw.githubusercontent.com/Dinoy-Raj/Dinoy-Raj/master/profile_light.gif)]
 
 
 
@@ -18,6 +17,7 @@ ___
 
 ### Languages
 
+![React](https://img.shields.io/badge/-Dart-fff?&logo=Dart)(https://github.com/Dinoy_Raj?tab=repositories&q=&type=&language=dart)
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/Dinoy_Raj?tab=repositories&q=&type=&language=python)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/Dinoy_Raj?tab=repositories&q=&type=&language=java)
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
@@ -26,7 +26,7 @@ ___
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
-![React](https://img.shields.io/badge/-Dart-fff?&logo=Dart)
+
 
 
 
