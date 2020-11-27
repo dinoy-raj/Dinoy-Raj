@@ -12,4 +12,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: 
 -->
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Dinoy-Raj&theme=<THEME_NAME>" />
+
+https://github-readme-stats.vercel.app/api?username=Dinoy-Raj&show_icons=true&theme=radical
