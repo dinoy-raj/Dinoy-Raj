@@ -1,6 +1,9 @@
 ### Hello,I'm Dinoy Raj 👋
 
 
+[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile_light.gif)](https://www.adamalston.com/)
+
+
 
 ___
 
