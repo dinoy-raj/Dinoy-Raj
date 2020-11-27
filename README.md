@@ -26,7 +26,7 @@ ___
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
-![Linux](https://img.shields.io/badge/-Linux-fff?&logo=flutter&logoColor=000)
+![Flutter](https://img.shields.io/badge/-Linux-fff?&logo=flutter&logoColor=000)
 
 
 
