@@ -1,7 +1,7 @@
 ### Hello,I'm Dinoy Raj 👋
 
 
-[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile_light.gif)](https://www.adamalston.com/)
+[![Header](https://raw.githubusercontent.com/Dinoy-Raj/Dinoy-Raj/master/profile_light.gif)]
 
 
 
