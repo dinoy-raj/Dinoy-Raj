@@ -4,16 +4,19 @@
 
 ___
 
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 
 
-
-- 🔭 I’m currently working on Covid19App
-- 🌱 I’m currently learning Dart
-- 👯 I’m looking to collaborate on AR
-- 🤔 I’m looking for help with Flutter
-- 💬 Ask me about Flutter
+- 🔭 I’m currently working on **Covid19App**
+- 🌱 I’m currently learning **Dart**
+- 👯 I’m looking to collaborate on **AR**
+- 🤔 I’m looking for help with **Flutter**
+- 💬 Ask me about **Flutter**
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/dinoy-raj-k-609542194/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=20px height=20px></a>   <a href="https://twitter.com/k_dinoy"><img src = "https://avatars3.githubusercontent.com/u/50278?s=200&v=4" width=20px height=20px></a> <a href="https://www.instagram.com/dinoy__raj/"><img src = "https://avatars3.githubusercontent.com/u/549085?s=200&v=4" width=20px height=20px></a>
-- 😄 Pronouns: He/His
+- 😄 Pronouns: **He/His**
 - ⚡ Fun fact: 
 -->
 
