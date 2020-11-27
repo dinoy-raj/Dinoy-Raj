@@ -17,9 +17,9 @@ ___
 
 ### Languages
 
-![React](https://img.shields.io/badge/-Dart-fff?&logo=Dart)(https://github.com/Dinoy_Raj?tab=repositories&q=&type=&language=dart)
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/Dinoy_Raj?tab=repositories&q=&type=&language=python)
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/Dinoy_Raj?tab=repositories&q=&type=&language=java)
+[![React](https://img.shields.io/badge/-Dart-fff?&logo=Dart)](https://github.com/Dinoy_Raj?tab=repositories&q=&type=&language=Dart)
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/Dinoy_Raj?tab=repositories&q=&type=&language=Python)
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/Dinoy_Raj?tab=repositories&q=&type=&language=Java)
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
 
