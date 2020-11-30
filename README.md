@@ -45,7 +45,7 @@ ___
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
 ![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=000)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-fff?&logo=TensorFlow&logoColor=000)
-![Django](https://img.shields.io/badge/-Django-fff?&logo=Django&logoColor=000)
+![Django](https://img.shields.io/badge/-Django-fff?&logo=Django&logoColor=000&theme=radical)
 
 
 
