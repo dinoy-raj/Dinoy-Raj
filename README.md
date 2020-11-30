@@ -15,7 +15,7 @@ ___
 ![](https://img.shields.io/github/followers/Dinoy-Raj?style=flat-square)
 ![](https://img.shields.io/github/stars/Dinoy-Raj?style=flat-square)
 
-![Fredy's github stats](https://github-readme-stats.vercel.app/api?username=Dinoy-Raj&show_icons=true&hide=["issues"])
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Dinoy-Raj)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
