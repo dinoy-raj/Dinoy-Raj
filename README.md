@@ -18,7 +18,12 @@ reach me:  <a href="https://www.linkedin.com/in/dinoy-raj-k-609542194/"><img src
 
 ___
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=Dinoy-Raj)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dinoy-Raj)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ___
 
