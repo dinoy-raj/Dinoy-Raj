@@ -21,7 +21,7 @@ ___
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dinoy-Raj)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dinoy-Raj&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
