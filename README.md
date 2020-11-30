@@ -6,17 +6,17 @@
 
 ___
 
-![HTML](https://img.shields.io/badge/JAVA-EXPERT-orange)
-![CSS](https://img.shields.io/badge/DART-INTERMEDIATE-blue)
-![JavaScript](https://img.shields.io/badge/PYTHON-INTERMEDIATE-brightgreen)
-![TypeScript](https://img.shields.io/badge/HTML-INTERMEDIATE-yellow)
+
 
 ![](https://komarev.com/ghpvc/?username=Dinoy-Raj&color=010040&style=flat-square)
 ![](https://img.shields.io/github/followers/Dinoy-Raj?style=flat-square)
 ![](https://img.shields.io/github/stars/Dinoy-Raj?style=flat-square)
 
+___
+
  [![trophy](https://github-profile-trophy.vercel.app/?username=Dinoy-Raj)](https://github.com/ryo-ma/github-profile-trophy)
 
+___
 
 
 
@@ -95,3 +95,10 @@ ___
 <a href="https://github.com/Dinoy-Raj/pongame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=pongame" />
 </a>
+
+___
+
+![HTML](https://img.shields.io/badge/JAVA-EXPERT-orange)
+![CSS](https://img.shields.io/badge/DART-INTERMEDIATE-blue)
+![JavaScript](https://img.shields.io/badge/PYTHON-INTERMEDIATE-brightgreen)
+![TypeScript](https://img.shields.io/badge/HTML-INTERMEDIATE-yellow)
