@@ -81,7 +81,7 @@ ___
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=SpeechToTextApp" />
 </a>
 <a href="https://github.com/Dinoy-Raj/anonymousapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=anonymousapp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=Acheckerapp" />
 </a>
 <a href="https://github.com/Dinoy-Raj/Neumorphic_Example">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=Neumorphic_Example" />
