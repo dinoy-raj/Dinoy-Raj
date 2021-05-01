@@ -25,7 +25,7 @@ ___
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dinoy-Raj&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
@@ -92,9 +92,6 @@ ___
 </a>
 <a href="https://github.com/Dinoy-Raj/Covid-19-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=Covid-19-Tracker" />
-</a>
-<a href="https://github.com/Dinoy-Raj/Covid19App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=Covid19App" />
 </a>
 <a href="https://github.com/Dinoy-Raj/TruthOrDareApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=TruthOrDareApp" />
