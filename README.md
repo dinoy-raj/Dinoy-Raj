@@ -6,7 +6,7 @@
 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: Asia/Kolkatha
 
 💬 Programming Languages: 
 
