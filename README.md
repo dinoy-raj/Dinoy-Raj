@@ -1,4 +1,4 @@
-### Hi,I'm Dinoy Raj    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
+### Hi,I'm Dinoy Raj     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=ADBAC7&bg_color=22272E&link=https://twitter.com/dinoy_raj)](https://twitter.com/dinoy_raj)
@@ -19,7 +19,6 @@ Python                   4 mins              ░░░░░░░░░░░�
 ```
 
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dinoy Raj's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Dinoy-Raj&bg_color=22272E&color=ADBAC7&line=8D8D8D&point=ADBAC7&hide_border=true&line_width=3" /></a>
 
 
