@@ -24,7 +24,7 @@ Python                   4 mins              ░░░░░░░░░░░�
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt=" " src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Dinoy-Raj&bg_color=22272E&color=ADBAC7&line=8D8D8D&point=ADBAC7&hide_border=true&line_width=3" /></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinoy-Raj&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=20)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoy-Raj&layout=compact&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=20)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinoy-Raj&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=20)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoy-Raj&layout=compact&title_color=ADBAC7&bg_color=00000000&hide=bg-color&card_width=20)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
