@@ -20,7 +20,7 @@ Python                   4 mins              ░░░░░░░░░░░�
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dinoy Raj's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Dinoy-Raj&bg_color=22272E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dinoy Raj's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Dinoy-Raj&bg_color=22272E&color=ADBAC7&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
