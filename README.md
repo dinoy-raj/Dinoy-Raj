@@ -21,10 +21,10 @@ Python                   4 mins              ░░░░░░░░░░░�
 ```
 
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dinoy Raj's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Dinoy-Raj&bg_color=22272E&color=ADBAC7&line=8D8D8D&point=ADBAC7&hide_border=true&line_width=3" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt=" " src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Dinoy-Raj&bg_color=22272E&color=ADBAC7&line=8D8D8D&point=ADBAC7&hide_border=true&line_width=3" /></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinoy-Raj&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color:ADBAC7&icon_color:ADBAC7&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinoy-Raj&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color:ADBAC7&icon_color:ADBAC7&hide_border=true&hide_title=true)
 
 
 
