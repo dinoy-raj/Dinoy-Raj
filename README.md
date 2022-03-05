@@ -24,7 +24,7 @@ Python                   4 mins              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
 </p>
 
 
