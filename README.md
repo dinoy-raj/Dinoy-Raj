@@ -30,7 +30,7 @@ Python                   4 mins              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://c.tenor.com/oVds8Dvp3hsAAAAj/cursed-dino.gif"/>
 </p>
 
 
