@@ -1,4 +1,4 @@
-### Hi, I'm Dinoy Raj         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+### Hi, I'm Dinoy Raj<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-22272E?style=flat-square&logo=twitter&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://twitter.com/dinoy_raj)](https://twitter.com/dinoy_raj)
