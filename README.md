@@ -7,9 +7,8 @@
 [![Linkedin](https://img.shields.io/badge/-Gmail-22272E?style=flat-square&logo=Gmail&logoColor=ADBAC7&bg_color=AARRGGBB&link=dinoykraj@gmail.com)](mailto:dinoykraj@gmail.com)
 
 
-```text
+
 ⌚︎ Time Zone: Asia/Kolkatha
-```text
 
  ###### Last Updated on   2/07/2023 12:01:25 UTC
 <!--END_SECTION:waka-->
