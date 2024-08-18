@@ -1,4 +1,4 @@
-### Hi, I'm Dinoy Raj
+### 🧑‍💻 Hi, I'm Dinoy Raj 
 
 
 [![Twitter](https://img.shields.io/badge/-Medium-22272E?style=social-square&logo=Medium&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://medium.com/@dinoyraj)](https://medium.com/@dinoyraj)
