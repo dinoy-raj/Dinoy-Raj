@@ -5,7 +5,7 @@
 [![Kotlin](https://img.shields.io/badge/-Kotlin-22272E?style=social-square&logo=Kotlin&logoColor=ADBAC7&bg_color=AAAAAAAA&link=https://kotlinlang.org/)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/-Compose-22272E?style=social-square&logo=JetpackCompose&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://developer.android.com/compose)](https://developer.android.com/compose)
 [![Kotlin Multi-platform](https://img.shields.io/badge/-KMP-22272E?style=social-square&logo=kotlin&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://www.jetbrains.com/kotlin-multiplatform/)](https://www.jetbrains.com/kotlin-multiplatform/)
-[![Linkedin](https://img.shields.io/badge/-guy-22272E?style=social-square&logoColor=ADBAC7&bg_color=AAAAAAAA&link=dinoykraj@gmail.com)](mailto:dinoykraj@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-guy-22272E?style=social-square&logo=linkedin&logoColor=ADBAC7&bg_color=AAAAAAAA&link=dinoykraj@gmail.com)](mailto:dinoykraj@gmail.com)
 
 #
 
@@ -24,5 +24,5 @@
 
 ######
 
- ###### Last Updated on   18 Aug 2024 2:01:25 UTC
+ ###### Last Updated on   04 Jan 2026 18:47:55 UTC
 <!--END_SECTION:waka-->
