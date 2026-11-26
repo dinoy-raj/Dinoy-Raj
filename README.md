@@ -9,12 +9,8 @@
 
 #
 
-![Connect](https://img.shields.io/badge/-Connect-22272E?style=social-square&logo=Dino&logoColor=ADBAC7&bg_color=AARRGGBB)
-[![Medium](https://img.shields.io/badge/-Medium-22272E?style=social-square&logo=Medium&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://medium.com/@dinoyraj)](https://medium.com/@dinoyraj)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-22272E?style=social-square&logo=linkedin&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://www.linkedin.com/in/dinoy-raj/)](https://www.linkedin.com/in/dinoy-raj/)
-[![Linktree](https://img.shields.io/badge/-Linktree-22272E?style=social-square&logo=linktree&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://linktr.ee/dinoyraj)](https://linktr.ee/dinoyraj)
-[![Twitter](https://img.shields.io/badge/-Twitter-22272E?style=social-square&logo=X&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://twitter.com/dinoy_raj)](https://twitter.com/dinoy_raj)
-[![G-Mail](https://img.shields.io/badge/-Gmail-22272E?style=social-square&logo=Gmail&logoColor=ADBAC7&bg_color=AARRGGBB&link=dinoykraj@gmail.com)](mailto:dinoykraj@gmail.com)
+![Connect through](https://img.shields.io/badge/-Connect-22272E?style=social-square&logo=Dino&logoColor=ADBAC7&bg_color=AARRGGBB)
+[![My website](https://img.shields.io/badge/-Linktree-22272E?style=social-square&logo=linktree&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://dinoyraj.com/)](https://dinoyraj.com/)
 
 
  
