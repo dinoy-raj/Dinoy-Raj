@@ -1,16 +1,21 @@
-### 🧑‍💻 Hi,  I'm Dinoy Raj 
+### 🧑‍💻 Hi, I'm Dinoy Raj
 
-![A](https://img.shields.io/badge/-a-22272E?style=social-square&logoColor=ADBAC7&bg_color=AAAAAAAA)
-[![Android](https://img.shields.io/badge/-Android-22272E?style=social-square&logo=Android&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://developer.android.com/)](https://dinoyraj.com/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-22272E?style=social-square&logo=Kotlin&logoColor=ADBAC7&bg_color=AAAAAAAA&link=https://kotlinlang.org/)](https://dinoyraj.com/)
-[![Jetpack Compose](https://img.shields.io/badge/-Compose-22272E?style=social-square&logo=JetpackCompose&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://developer.android.com/compose)](https://dinoyraj.com/)
-[![Kotlin Multi-platform](https://img.shields.io/badge/-KMP-22272E?style=social-square&logo=kotlin&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://www.jetbrains.com/kotlin-multiplatform/)](https://dinoyraj.com/)
-[![Linkedin](https://img.shields.io/badge/-guy-22272E?style=social-square&logoColor=ADBAC7&bg_color=AAAAAAAA&link=dinoykraj@gmail.com)](https://dinoyraj.com/)
+![A](https://img.shields.io/badge/-a-22272E?style=social-square&logoColor=ADBAC7)
+[![Android](https://img.shields.io/badge/-Android-22272E?style=social-square&logo=Android&logoColor=ADBAC7)](https://developer.android.com/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-22272E?style=social-square&logo=Kotlin&logoColor=ADBAC7)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/-Compose-22272E?style=social-square&logo=JetpackCompose&logoColor=ADBAC7)](https://developer.android.com/compose)
+[![Kotlin Multiplatform](https://img.shields.io/badge/-KMP-22272E?style=social-square&logo=kotlin&logoColor=ADBAC7)](https://www.jetbrains.com/kotlin-multiplatform/)
+[![Guy](https://img.shields.io/badge/-guy-22272E?style=social-square&logoColor=ADBAC7)](https://dinoyraj.com/)
 
 #
 
-![Connect through](https://img.shields.io/badge/-Connect-22272E?style=social-square&logo=Dino&logoColor=ADBAC7&bg_color=AARRGGBB)
-[![My website](https://img.shields.io/badge/-Linktree-22272E?style=social-square&logo=linktree&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://dinoyraj.com/)](https://dinoyraj.com/)
+![Connect through](https://img.shields.io/badge/-Connect-22272E?style=social-square&logoColor=ADBAC7)
+
+[![Website](https://img.shields.io/badge/🌐-dinoyraj.com-22272E?style=social-square&logoColor=ADBAC7)](https://dinoyraj.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-22272E?style=social-square&logo=linkedin&logoColor=ADBAC7)](https://www.linkedin.com/in/dinoy-raj/)
+[![Sessionize](https://img.shields.io/badge/-Sessionize-22272E?style=social-square&logo=sessionize&logoColor=ADBAC7)](https://sessionize.com/dinoy)
+[![Google Play](https://img.shields.io/badge/-Google_Play-22272E?style=social-square&logo=googleplay&logoColor=ADBAC7)](https://play.google.com/store/apps/dev?id=8799251775499093729)
+[![X](https://img.shields.io/badge/-X-22272E?style=social-square&logo=x&logoColor=ADBAC7)](https://x.com/dinoy_raj)
 
 
  
@@ -20,5 +25,5 @@
 
 ######
 
- ###### Last Updated on   18 Aug 2024 2:01:25 UTC
+ ###### Last Updated on   26 Nov 2026 3:01:25 UTC
 <!--END_SECTION:waka-->
